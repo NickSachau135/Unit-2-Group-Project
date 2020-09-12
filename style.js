@@ -1,4 +1,4 @@
-let dec = Number(prompt(`Enter a decimal number between 0 and 255.`));
+// let dec = Number(prompt(`Enter a decimal number between 0 and 255.`));
 let decforbinary = dec;
 
 
