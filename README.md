@@ -1,3 +1,3 @@
-# Unit-2-Group-Project
+# Decimal to Binary converter
 
 this is line 3
